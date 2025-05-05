@@ -1,7 +1,7 @@
 <template>
   <q-page class="row items-center justify-evenly">
     <example-component
-      title="Hola Mundo en github repositorio"
+      title="Hola Mundo desde mi rama de tpg Giancarlo Alvarez"
       active
       :todos="todos"
       :meta="meta"
